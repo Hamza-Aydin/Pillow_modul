@@ -1,1 +1,1 @@
-# Pillow_modul
+# Pillow_modul'ü kullanarak fotoğraflar üzerinde işlemler yapmak.
